@@ -1,5 +1,6 @@
 # Xcode project files
 *.xcuserstate
+*.xcuserdata
 *.xcscmblueprint
 
 # Swift Package Manager
